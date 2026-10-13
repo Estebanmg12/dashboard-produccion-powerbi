@@ -95,7 +95,7 @@ Power BI · DAX · Python (pandas, openpyxl) · Excel
 
 ---
 
-## 🇺🇸 English summary
+## English summary
 
 Interactive Power BI dashboard for a spinning mill: target attainment, scrap, machine availability and downtime causes, with filters by month and shift. Built on a star-style model (machines, calendar, shifts) with DAX measures. All data is simulated; patterns (an underperforming machine, a weaker night shift, a mid-year dip) were built in on purpose for the exercise.
 
